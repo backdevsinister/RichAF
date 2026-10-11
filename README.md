@@ -1,4 +1,5 @@
 # intro
+![RichAF Dashboard](images/Screenshot.png)
 Theres alot of stuff to this since I already am on the fucking v4.5.6 version of this tool
 but you can do pretty much anything with this tool and its very powerful 
 even more powerful than devtools itself cause it has a front and back-end to it
