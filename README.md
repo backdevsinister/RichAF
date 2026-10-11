@@ -9,7 +9,7 @@ https://www.youtube.com/@backdevsinister
 
 **I made this tool for educational purposes only and anyone abusing this tool its not my problem. >///<**
 also join my discord: https://discord.gg/3qxSjJVct
-# How to use FULL TUTORIAL
+# How to use FULL TUTORIAL (yes I used chatgpt for this damn tutorial since idk how to explain shi-)
 **Current Version:** 4.5.6  
 **Platform:** Google Chrome / Chromium-based browsers  
 **Extension:** Manifest V3  
